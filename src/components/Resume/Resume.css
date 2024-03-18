@@ -1,6 +1,7 @@
 .react-pdf__Page__textContent {
     display: none;
     
+    
   }
   .react-pdf__Page {
     margin: 0;
@@ -9,6 +10,7 @@
      display: flex;
      justify-content: center;
      align-items: center;
+      /* background-color: gray; */
       
 
   }
@@ -22,8 +24,10 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
+     /* color: gray; */
      /* text-align: center; */
     /* vertical-align: middle;  */
+    /* background-color: gray; */
 
 }
   

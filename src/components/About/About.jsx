@@ -12,10 +12,10 @@ export default function About() {
             />
           </div>
           <div className="md:7/12 lg:w-6/12">
-            <h2 className="text-2xl text-gray-900 font-bold md:text-4xl">
+            <h2 className="text-2xl text-orange-600 font-bold md:text-4xl">
               Ashish Rajesh Girpunje
             </h2>
-            <p className="mt-6 text-white">
+            <p className="mt-6 text-white t-bold">
               Basically I'm from wardha, currently I live in pune. I passed my
               10 th class in 2015 with 63%, After that i completed 3 year
               diploma course of mechanical engineering in 2019 with 62.70℅. I
@@ -39,7 +39,7 @@ export default function About() {
               father is shopkeeper and my mother is hosewife. That's all about
               me.
             </p>
-            <h3 className="text-xl text-orange-400 font-bold md:text-4xl">
+            <h3 className="text-xl text-orange-600 font-bold md:text-4xl">
               <b>My Skils</b> = React js , JavaScript , HTML, CSS, vite , java ,
               Github
             </h3>
